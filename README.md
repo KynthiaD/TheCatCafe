@@ -16,18 +16,18 @@ All pictures were found on Unsplash except for the cat icon that was found on Fo
 The page is responsive and compatible with a variety of screen sizes.
 
 ## Link
-Visit the live page [here](http://dev.nodeca.com).
+Visit the live page [here]().
 
 ## Screenshots
 
 ### Desktop
-![Desktop screenshot]()
+![Desktop screenshot](screenshots/desktopscreenshot.png)
 
 ### Tablet
-![Tablet Screenshot]()
+![Tablet Screenshot](screenshots/tabletscreenshot.png)
 
 ### Mobile
-![Mobile Screenshot]()
+![Mobile Screenshot](screenshots/mobilescreenshot.png)
 
 ## Resources
 [Bootstrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
