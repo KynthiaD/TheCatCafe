@@ -16,7 +16,7 @@ All pictures were found on Unsplash except for the cat icon that was found on Fo
 The page is responsive and compatible with a variety of screen sizes.
 
 ## Link
-Visit the live page [here]().
+Visit the live page [here](https://kynthiad.github.io/TheCatCafe/).
 
 ## Screenshots
 
